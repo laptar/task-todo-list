@@ -1,0 +1,10 @@
+.header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  border-bottom: 1px solid #bebebe;
+}
+.addBtn {
+  padding: 5px 10px;
+  border-radius: 10px;
+}

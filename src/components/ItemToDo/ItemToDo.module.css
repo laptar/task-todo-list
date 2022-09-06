@@ -1,0 +1,41 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  gap: 15px;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: white;
+}
+.itemUpd {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.name {
+  margin-bottom: 10px;
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-size: 20px;
+}
+.description {
+  margin-bottom: 10px;
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 16px;
+}
+.cheack {
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-size: 16px;
+}
+.date {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.btn {
+  padding: 10px 5px;
+  border-radius: 15px;
+}
